@@ -1,4 +1,4 @@
-#INGREDIENTS
+# INGREDIENTS
 
 ## CONTENT | ## QUANTITY
 ------------ | -------------
