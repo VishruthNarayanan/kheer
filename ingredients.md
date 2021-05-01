@@ -1,6 +1,6 @@
-#INGREDIENTS#
+#INGREDIENTS
 
-##CONTENT | ##QUANTITY
+## CONTENT | ## QUANTITY
 ------------ | -------------
 Full fat milk | *1 litre* 
 Sugar | *1/2 cup*
