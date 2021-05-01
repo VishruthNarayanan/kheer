@@ -1,4 +1,4 @@
-#HOW TO MAKE#
+# HOW TO MAKE
 
 1. Wash and soak rice for 30 minutes. Drain and set aside.
 
